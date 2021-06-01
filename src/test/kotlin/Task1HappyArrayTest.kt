@@ -48,3 +48,4 @@ class Task1HappyArrayTest {
         assertArrayEquals(happyArray, converter.convertToHappy(sadArray))
     }
 }
+
